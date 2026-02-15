@@ -32,7 +32,6 @@ Yay! Here is a rose for you 😘 😍
 ## 🎨 Visual Output
 Once "Yes" is entered, a new window pops up and draws this:
 
-![Rose Preview](your_screenshot_name.png)
-
+![A beautiful rose drawn with Python Turtle](./rose_preview.png)
 ---
 *Created with ❤️ using Python Turtle.*
